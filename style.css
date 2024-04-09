@@ -2,36 +2,37 @@
     margin: 0;
     padding: 0;
 }
-.cabecalho {
-    background-color: #424e61;
+
+.cabecalho{
+    background-color: #424E61;
     display: flex;
-    justify-content: space-around;
-
+     justify-content: space-around;
 }
+
+
 .lista-cabecalho{
-   color: white;
-   font-size: 23px;
+    color: white;
+    font-size: 23px;
 }
+
 .lista-item{
-    display: inline-block;
-    
+     display: inline-block;
 }
- primeira-parte{
+.primeira-parte{ 
+    background-image: linear-gradient(#424E61,white);
+    height: 500px;
+    padding: 100px;
+    color: white;
+    display: flex;
+}
 
-    background-color:black;
+.primeiro-paragrafo{
+    padding: 15px;
+}
+.segundo-paragrafo{
+    padding: 15px;
+}
 
- }
-
- .primeira-parte{
-      background-image: linear-gradient(#424E61,white);
-      height: 500px;
-     padding: 100px;
-     color: white 
-
- }
- .primeiro-paragrafo{
-     padding: 15x;
- }
- .segundo-paragrafo{
-     padding: 15x;
- }
+.foto-estudante{
+    width: 25%;
+}
