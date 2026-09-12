@@ -1,17 +1,7 @@
 # Arthur2EJBS
 
-Projeto criado para transformar uma ideia nostálgica da escola em uma experiência web simples, acessível e fácil de revisitar.
+## Memória do projeto
 
-## Sobre o projeto
+Este projeto nasceu de uma experiência nostálgica da escola e continua como um registro do aprendizado em desenvolvimento web.
 
-O Arthur2EJBS reúne páginas e recursos desenvolvidos durante uma fase importante de aprendizado. A proposta desta atualização é preservar a memória do projeto e, ao mesmo tempo, deixar sua apresentação mais clara para quem visita o repositório hoje.
-
-## Direção
-
-- Organizar melhor a história e o propósito do projeto
-- Valorizar o aprendizado construído na escola
-- Manter uma base simples para futuras melhorias
-
-## Tecnologias
-
-HTML e CSS, com foco em uma interface leve e direta.
+A nova organização apresenta melhor o propósito do site e facilita sua evolução.
